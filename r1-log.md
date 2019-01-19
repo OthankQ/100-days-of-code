@@ -11,4 +11,4 @@ Started Free Code Camp Basic Javascript. Finished all the way up to the first sw
 Finished up to iterating with while loop on FCC.
 
 ### R1D3
-Finished all the way up to profile lookup challenge on FCC.
+Finished all the way up to the last lesson on basic Javascript.
