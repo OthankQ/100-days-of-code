@@ -12,3 +12,7 @@ Finished up to iterating with while loop on FCC.
 
 ### R1D3
 Finished all the way up to the last lesson on basic Javascript.
+
+### R1D4
+Finished basic html and css challenges on FCC.
+
