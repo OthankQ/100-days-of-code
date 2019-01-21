@@ -16,3 +16,6 @@ Finished all the way up to the last lesson on basic Javascript.
 ### R1D4
 Finished basic html and css challenges on FCC.
 
+### R1D5
+Started applied visual design section challenges. Will start working with CSS animations.
+
