@@ -19,3 +19,5 @@ Finished basic html and css challenges on FCC.
 ### R1D5
 Started applied visual design section challenges. Will start working with CSS animations.
 
+### R1D6
+Finshed up applied visual design section. Started on applied accessibility. Went back to ES6 challenges then got stuck on higher order arrow functions.
