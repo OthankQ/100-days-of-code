@@ -21,3 +21,7 @@ Started applied visual design section challenges. Will start working with CSS an
 
 ### R1D6
 Finshed up applied visual design section. Started on applied accessibility. Went back to ES6 challenges then got stuck on higher order arrow functions.
+
+### R1D7
+Started CSS Grid part of the freecodecamp challenges.
+
