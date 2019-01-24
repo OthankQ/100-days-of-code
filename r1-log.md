@@ -25,3 +25,5 @@ Finshed up applied visual design section. Started on applied accessibility. Went
 ### R1D7
 Started CSS Grid part of the freecodecamp challenges.
 
+### R1D8
+Finished 'Responsive Web Design Certification' challenges. Now, time to start the projects.
