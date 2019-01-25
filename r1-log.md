@@ -27,3 +27,6 @@ Started CSS Grid part of the freecodecamp challenges.
 
 ### R1D8
 Finished 'Responsive Web Design Certification' challenges. Now, time to start the projects.
+
+### R1D9
+Completed the Tribute Page project and passed the test for the Survey Form page project. Had to do a lot of research on CSS grid to line up elements in the middle. Will play around with the CSS to make it look better. Time really flew by
