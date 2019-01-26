@@ -30,3 +30,9 @@ Finished 'Responsive Web Design Certification' challenges. Now, time to start th
 
 ### R1D9
 Completed the Tribute Page project and passed the test for the Survey Form page project. Had to do a lot of research on CSS grid to line up elements in the middle. Will play around with the CSS to make it look better. Time really flew by
+
+### R1D10
+Touched up CSS for the survey page project. Might go back to it once in a while to do some more practice with css. Completed the structure for the product landing page.
+
+
+
