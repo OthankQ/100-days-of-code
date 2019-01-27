@@ -34,5 +34,7 @@ Completed the Tribute Page project and passed the test for the Survey Form page 
 ### R1D10
 Touched up CSS for the survey page project. Might go back to it once in a while to do some more practice with css. Completed the structure for the product landing page.
 
+### R1D11
+Passed all the test for the product landing page project. Still having trouble with aligning elements with CSS. 
 
 
