@@ -37,4 +37,5 @@ Touched up CSS for the survey page project. Might go back to it once in a while 
 ### R1D11
 Passed all the test for the product landing page project. Still having trouble with aligning elements with CSS. 
 
-
+### R1D12
+Felt the need to go over some tutorial for the CSS grid. Now I have a slight sense of what it can do. Will try to create a webpage using grid for the whole layout.
