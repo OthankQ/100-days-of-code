@@ -42,3 +42,14 @@ Felt the need to go over some tutorial for the CSS grid. Now I have a slight sen
 
 ### R1D13
 Got into building a practice website using css grid layouts. Also learned how to use CSS variables. Feels like I should have started using it way back.
+
+### R1D14
+Completed the grid practice website. Learned lots of stuff about layouts and media queries. Will need to put some practice in by putting them to use in my product landing page project.
+
+
+
+
+
+
+
+
