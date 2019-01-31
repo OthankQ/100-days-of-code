@@ -46,7 +46,8 @@ Got into building a practice website using css grid layouts. Also learned how to
 ### R1D14
 Completed the grid practice website. Learned lots of stuff about layouts and media queries. Will need to put some practice in by putting them to use in my product landing page project.
 
-
+### R1D15
+Got stuck with writing css for the product landing page project because the video wouldn't move using the css grid. Frustrated, decided to work on setting up a server using express for a newsletter signup page tutorial.
 
 
 
