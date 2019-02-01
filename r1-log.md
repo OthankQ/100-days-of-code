@@ -49,7 +49,8 @@ Completed the grid practice website. Learned lots of stuff about layouts and med
 ### R1D15
 Got stuck with writing css for the product landing page project because the video wouldn't move using the css grid. Frustrated, decided to work on setting up a server using express for a newsletter signup page tutorial.
 
-
+### R1D16
+Struggled with destructing assignment JS challenge on FCC. Followed along building a CSS and HTML signup form.
 
 
 
