@@ -52,6 +52,7 @@ Got stuck with writing css for the product landing page project because the vide
 ### R1D16
 Struggled with destructing assignment JS challenge on FCC. Followed along building a CSS and HTML signup form.
 
-
+### R1D17
+Started reading "You Don't Know JavaScript" by Kyle Simpson. Tried the first exercise and quickly learned that I need to have a firm understanding of the basics if I want to move forward.
 
 
