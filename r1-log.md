@@ -55,4 +55,5 @@ Struggled with destructing assignment JS challenge on FCC. Followed along buildi
 ### R1D17
 Read the first chapter of "You Don't Know JavaScript" by Kyle Simpson. Tried the first exercise from the book and quickly learned that I need to have a firm understanding of the basics if I want to move forward.
 
-
+### R1D18
+Worked on the You Don't Know JS chapter 1 challenge.
