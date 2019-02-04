@@ -57,3 +57,10 @@ Read the first chapter of "You Don't Know JavaScript" by Kyle Simpson. Tried the
 
 ### R1D18
 Worked on the You Don't Know JS chapter 1 challenge.
+
+### R1D19
+Whipped up a landing page for a business idea me and my friends came up with. 
+
+
+
+
