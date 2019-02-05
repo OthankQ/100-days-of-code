@@ -61,6 +61,7 @@ Worked on the You Don't Know JS chapter 1 challenge.
 ### R1D19
 Whipped up a landing page for a business idea me and my friends came up with. 
 
-
+### R1D20
+Read through the first chapter of You Don't Know Javascript and finished the challenge. Not quite satisfied with the result. Read a bit of PHP tutorial.
 
 
