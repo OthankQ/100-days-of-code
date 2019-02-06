@@ -64,4 +64,8 @@ Whipped up a landing page for a business idea me and my friends came up with.
 ### R1D20
 Read through the first chapter of You Don't Know Javascript and finished the challenge. Not quite satisfied with the result. Read a bit of PHP tutorial.
 
+### R1D21
+Started and finished the Technical Documentation Page project on FCC. But barely put any styling into it. Still struggling with CSS layouts.
+
+
 
