@@ -67,5 +67,6 @@ Read through the first chapter of You Don't Know Javascript and finished the cha
 ### R1D21
 Started and finished the Technical Documentation Page project on FCC. But barely put any styling into it. Still struggling with CSS layouts.
 
-
+### R1D22
+Finished structuring the html for the portfolio project on FCC. Looking into the Odin Project for more resources. First time contributing to an open source, although it was just a small typo. Kinda excited!
 
