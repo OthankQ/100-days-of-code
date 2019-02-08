@@ -70,3 +70,5 @@ Started and finished the Technical Documentation Page project on FCC. But barely
 ### R1D22
 Finished structuring the html for the portfolio project on FCC. Looking into the Odin Project for more resources. First time contributing to an open source, although it was just a small typo. Kinda excited!
 
+### R1D23
+Worked on data structure challenges on FCC.
