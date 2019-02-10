@@ -76,4 +76,5 @@ Worked on data structure challenges on FCC.
 ### R1D24
 Coding wise, didn't do much today. Just a couple of javascript challenges on free code camp. Struggled for a while trying to install Xubuntu on a windows virtual machine to set up a Ruby on Rails app. Still struggling.
 
-
+### R1D25
+Finished Combine Arrays with the Spread Operator challenge on FCC. Have yet to successfully install Ubuntu on my desktop. Won't boot for some reason.
