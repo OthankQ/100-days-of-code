@@ -78,3 +78,8 @@ Coding wise, didn't do much today. Just a couple of javascript challenges on fre
 
 ### R1D25
 Finished Combine Arrays with the Spread Operator challenge on FCC. Have yet to successfully install Ubuntu on my desktop. Won't boot for some reason.
+
+### R1D36
+Couldn't help but feel like I'm missing some of the fundamentals of programming. Listened to some lectures by Simon Allardice. Great lecturer. Didn't do much of coding today though.
+
+
