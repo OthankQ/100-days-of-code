@@ -84,3 +84,7 @@ Couldn't help but feel like I'm missing some of the fundamentals of programming.
 
 ### R1D27
 Solved Javascript debugging challenges up to 'Catch Off By One Errors When Using Indexing'
+
+### R1D28
+Read about relational database and went over SQL challenges on codecademy to get a sense of what the language looks like.
+
