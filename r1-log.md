@@ -88,3 +88,7 @@ Solved Javascript debugging challenges up to 'Catch Off By One Errors When Using
 ### R1D28
 Read about relational database and went over SQL challenges on codecademy to get a sense of what the language looks like.
 
+### R1D29
+Following a tutorial on how to setup a Facebook messenger bot using Node.js and Dialogflow. Currently having trouble with ngrok proxy server. I keep getting 502 bad gateway error. 
+
+
