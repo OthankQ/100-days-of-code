@@ -91,4 +91,7 @@ Read about relational database and went over SQL challenges on codecademy to get
 ### R1D29
 Following a tutorial on how to setup a Facebook messenger bot using Node.js and Dialogflow. Currently having trouble with ngrok proxy server. I keep getting 502 bad gateway error. 
 
+### R1D30
+Was successful on hooking up my webhook server to the Facebook bot page! Will try to hook up APIs to the bot and see if I can make it do what I want!
+
 
