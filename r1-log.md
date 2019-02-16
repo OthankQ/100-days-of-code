@@ -94,4 +94,7 @@ Following a tutorial on how to setup a Facebook messenger bot using Node.js and 
 ### R1D30
 Was successful on hooking up my webhook server to the Facebook bot page! Will try to hook up APIs to the bot and see if I can make it do what I want!
 
+### R1D31
+Still working on my Facebook messenger bot. But meanwhile, also working on the free code camp JS curriculum. Trying to solve 'Iterating through all array items using for loops.' 
+
 
