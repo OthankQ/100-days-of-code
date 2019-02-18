@@ -100,4 +100,5 @@ Still working on my Facebook messenger bot. But meanwhile, also working on the f
 ### R1D32
 Finished 'Check if an Object has a Property' challenge on free code camp.
 
-
+### R1D33
+Working on 'Basic Algorithm Scripting: Return Largest Numbers in Arrays' challenge on Free code camp. These challenges are taking longer than I thought but feels great when I finally solve them!
