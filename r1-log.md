@@ -102,3 +102,6 @@ Finished 'Check if an Object has a Property' challenge on free code camp.
 
 ### R1D33
 Working on 'Basic Algorithm Scripting: Return Largest Numbers in Arrays' challenge on Free code camp. These challenges are taking longer than I thought but feels great when I finally solve them!
+
+### R1D34
+Started 'JavaScript: Understanding the Weird Parts' on Udemy. Learning a lot of things. Can't wait to make my own js framework at end of the course!
