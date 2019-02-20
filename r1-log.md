@@ -105,3 +105,6 @@ Working on 'Basic Algorithm Scripting: Return Largest Numbers in Arrays' challen
 
 ### R1D34
 Started 'JavaScript: Understanding the Weird Parts' on Udemy. Learning a lot of things. Can't wait to make my own js framework at end of the course!
+
+### R1D35
+More 'JavaScript: Understanding the Weird Parts' on Udemy. Learned about execution stack and variable environment. Materials look different now that I have dabbled some in Javascript.
