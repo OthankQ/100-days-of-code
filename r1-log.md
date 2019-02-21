@@ -108,3 +108,7 @@ Started 'JavaScript: Understanding the Weird Parts' on Udemy. Learning a lot of 
 
 ### R1D35
 More 'JavaScript: Understanding the Weird Parts' on Udemy. Learned about execution stack and variable environment. Materials look different now that I have dabbled some in Javascript.
+
+### R1D36
+Solved 'Finders Keepers' challenge on Free Code Camp and had fun while doing it! Also listened to more of the 'JavaScript: Understanding the Weird Parts' lecture. Learned about how under the hood, JS is synchronous.
+
