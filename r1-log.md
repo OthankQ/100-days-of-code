@@ -112,3 +112,6 @@ More 'JavaScript: Understanding the Weird Parts' on Udemy. Learned about executi
 ### R1D36
 Solved 'Finders Keepers' challenge on Free Code Camp and had fun while doing it! Also listened to more of the 'JavaScript: Understanding the Weird Parts' lecture. Learned about how under the hood, JS is synchronous.
 
+### R1D37
+Started working on my portfolio page which I can actually present. Committed by buying a domain name for it too! Also listened to more of the 'JavaScript: Understanding the Weird Parts'. Went over precedence, associativity and coercion.
+
