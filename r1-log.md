@@ -115,3 +115,5 @@ Solved 'Finders Keepers' challenge on Free Code Camp and had fun while doing it!
 ### R1D37
 Started working on my portfolio page which I can actually present. Committed by buying a domain name for it too! Also listened to more of the 'JavaScript: Understanding the Weird Parts'. Went over precedence, associativity and coercion.
 
+### R1D38
+Finished the main page of my portfolio site! Now working on the 'about me' section. JS Lecture wise, learned how coercion can lead to interesting behaviors and how some frameworks work around it using || operator, setting default values.
