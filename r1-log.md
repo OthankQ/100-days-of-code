@@ -117,3 +117,6 @@ Started working on my portfolio page which I can actually present. Committed by 
 
 ### R1D38
 Finished the main page of my portfolio site! Now working on the 'about me' section. JS Lecture wise, learned how coercion can lead to interesting behaviors and how some frameworks work around it using || operator, setting default values.
+
+### R1D39
+Finished the bio and projects page for my portfolio site! Went over dot notation and bracket notation in 'Javascript: Understanding the Weird Parts' lecture.
