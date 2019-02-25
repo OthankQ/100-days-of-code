@@ -120,3 +120,6 @@ Finished the main page of my portfolio site! Now working on the 'about me' secti
 
 ### R1D39
 Finished the bio and projects page for my portfolio site! Went over dot notation and bracket notation in 'Javascript: Understanding the Weird Parts' lecture.
+
+### R1D40
+Finished my portfolio site and deployed it using Github Pages! The contents still needs a lot of work but it felt great to have a site deployed under my own domain name!
