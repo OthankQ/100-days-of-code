@@ -123,3 +123,8 @@ Finished the bio and projects page for my portfolio site! Went over dot notation
 
 ### R1D40
 Finished my portfolio site and deployed it using Github Pages! The contents still needs a lot of work but it felt great to have a site deployed under my own domain name!
+
+### R1D41
+Started working on a book list web app where you can just log the name of books, authors and ISBN. This is a tutorial project and I am hoping to learn about classes, event listeners and arrow functions! Also learned about object literals.
+
+
