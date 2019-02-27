@@ -127,4 +127,5 @@ Finished my portfolio site and deployed it using Github Pages! The contents stil
 ### R1D41
 Started working on a book list web app where you can just log the name of books, authors and ISBN. This is a tutorial project and I am hoping to learn about classes, event listeners and arrow functions! Also learned about object literals.
 
-
+### R1D42
+Finished the MyBookList app! Learned that there are so many things I actually don't know... yet! Tried nodeschool.io and actually managed to solve a few problems! More JS lectures! Learned that in JS, functions are objects!
