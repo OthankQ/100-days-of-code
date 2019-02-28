@@ -129,3 +129,6 @@ Started working on a book list web app where you can just log the name of books,
 
 ### R1D42
 Finished the MyBookList app! Learned that there are so many things I actually don't know... yet! Tried nodeschool.io and actually managed to solve a few problems! More JS lectures! Learned that in JS, functions are objects!
+
+### R1D43
+Learned quite a lot about 'this' keyword in JS. I learned how 'this' usually refers to the object it belongs to, but when it is in an internal function within a method of an object, it points to global object. Also more about arrays!
