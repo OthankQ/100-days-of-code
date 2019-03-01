@@ -132,3 +132,6 @@ Finished the MyBookList app! Learned that there are so many things I actually do
 
 ### R1D43
 Learned quite a lot about 'this' keyword in JS. I learned how 'this' usually refers to the object it belongs to, but when it is in an internal function within a method of an object, it points to global object. Also more about arrays!
+
+### R1D44
+Learned about how JS syntax parser works at certain conditions. Also learned about Immediately Invoked Function Expression(IIFE) and why it works the way it does! Took a look inside the V8 engine and its concept before learning Node!
