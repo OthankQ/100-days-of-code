@@ -135,3 +135,6 @@ Learned quite a lot about 'this' keyword in JS. I learned how 'this' usually ref
 
 ### R1D44
 Learned about how JS syntax parser works at certain conditions. Also learned about Immediately Invoked Function Expression(IIFE) and why it works the way it does! Took a look inside the V8 engine and its concept before learning Node!
+
+### R1D45
+Today I learned about closure in JS I also learned what Node consists of and things JS needs to manage a server!
