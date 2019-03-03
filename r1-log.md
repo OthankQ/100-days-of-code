@@ -138,3 +138,6 @@ Learned about how JS syntax parser works at certain conditions. Also learned abo
 
 ### R1D45
 Today I learned about closure in JS I also learned what Node consists of and things JS needs to manage a server!
+
+### R1D46
+Learned about closures and how callback functions work! Also learned about call, apply and bind method! Next, I am going to learn about functional programming paradigm!
