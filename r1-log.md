@@ -141,3 +141,6 @@ Today I learned about closure in JS I also learned what Node consists of and thi
 
 ### R1D46
 Learned about closures and how callback functions work! Also learned about call, apply and bind method! Next, I am going to learn about functional programming paradigm!
+
+### R1D47
+Today I learned more about functional programming! Function currying, .map() and .filter() method! Also learned a bit about Underscore.js library! This is getting exciting!
