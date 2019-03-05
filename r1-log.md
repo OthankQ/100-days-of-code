@@ -144,3 +144,7 @@ Learned about closures and how callback functions work! Also learned about call,
 
 ### R1D47
 Today I learned more about functional programming! Function currying, .map() and .filter() method! Also learned a bit about Underscore.js library! This is getting exciting!
+
+### R1D48
+Today I learned about prototypal inheritance and how it is different from classical inheritance. The concept is not yet easy to grasp. I hope I can see some good examples! Solved a few OOP challenges on FCC!
+
