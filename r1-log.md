@@ -148,3 +148,12 @@ Today I learned more about functional programming! Function currying, .map() and
 ### R1D48
 Today I learned about prototypal inheritance and how it is different from classical inheritance. The concept is not yet easy to grasp. I hope I can see some good examples! Solved a few OOP challenges on FCC!
 
+### R1D49
+Totally forgot to tweet my progress yesterday... Didn't get to do much except solving OOP challenges up to 'Understand Own Properties' on freecodecamp.
+
+### R1D50
+https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 … Read this great article on @Medium and figured what I needed was the ability to breakdown a huge problem into smaller chunks. I actually had fun solving challenges on Coderbyte and FCC today!
+
+### R1D51
+Today I worked on some of the katas on @codewars! I also read, learned a bit more about breaking down problems and writing pseudo code. Think I should have done this sooner. I am also actively looking for open source issues on @github!
+
