@@ -157,3 +157,5 @@ https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-proble
 ### R1D51
 Today I worked on some of the katas on @codewars! I also read, learned a bit more about breaking down problems and writing pseudo code. Think I should have done this sooner. I am also actively looking for open source issues on @github!
 
+### R1D52
+Today I learned about function constructor and the 'new' operator! I would love to see real life examples of this being used! I also contributed to an opensource project by updating a json file!
