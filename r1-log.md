@@ -159,3 +159,6 @@ Today I worked on some of the katas on @codewars! I also read, learned a bit mor
 
 ### R1D52
 Today I learned about function constructor and the 'new' operator! I would love to see real life examples of this being used! I also contributed to an opensource project by updating a json file!
+
+### R1D53
+I learned about ',prototype' today. Still confused. I might have to go over it again. I am attempting to solve 'Basic Algorithm Scripting: Where do I Belong' challenge on FCC! I was surprised how .filter could make things so much easier.
