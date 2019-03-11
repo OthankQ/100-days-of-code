@@ -162,3 +162,6 @@ Today I learned about function constructor and the 'new' operator! I would love 
 
 ### R1D53
 I learned about ',prototype' today. Still confused. I might have to go over it again. I am attempting to solve 'Basic Algorithm Scripting: Where do I Belong' challenge on FCC! I was surprised how .filter could make things so much easier.
+
+### R1D54
+Finished Simon Allardice's programming foundation course. Basic things but was really helpful for learning general concepts of programming! Coding wise, worked on OOP and Basic Algorithm Structure challenges on free code camp.
