@@ -165,3 +165,6 @@ I learned about ',prototype' today. Still confused. I might have to go over it a
 
 ### R1D54
 Finished Simon Allardice's programming foundation course. Basic things but was really helpful for learning general concepts of programming! Coding wise, worked on OOP and Basic Algorithm Structure challenges on free code camp.
+
+### R1D55
+Solved functional programming challenges on @freeCodeCamp. Also, started looking at jQuery under the hood to see if I can understand how some of its parts are working.
