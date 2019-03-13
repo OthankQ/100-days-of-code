@@ -168,3 +168,7 @@ Finished Simon Allardice's programming foundation course. Basic things but was r
 
 ### R1D55
 Solved functional programming challenges on @freeCodeCamp. Also, started looking at jQuery under the hood to see if I can understand how some of its parts are working.
+
+### R1D56
+Working on the React tic tac toe tutorial but still having trouble wrapping my head around it.
+
