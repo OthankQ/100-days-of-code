@@ -172,3 +172,6 @@ Solved functional programming challenges on @freeCodeCamp. Also, started looking
 ### R1D56
 Working on the React tic tac toe tutorial but still having trouble wrapping my head around it.
 
+### R1D57
+Started learning React! I've been staying away from front end of things because of the fear of CSS and general layout problems. But after learning basics of JS, it felt like a good step to learn the JS ecosystem and how frameworks work!
+
