@@ -177,3 +177,6 @@ Started learning React! I've been staying away from front end of things because 
 
 ### R1D58
 Today I learned how to style React components using CSS and how to embed JavaScript in JSX! Using Scrimba to learn React has been great!
+
+### R1D59
+I learned how to style React components with style 'object' within a functional component, and how to use JS to manipulate them!
