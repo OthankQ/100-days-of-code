@@ -180,3 +180,6 @@ Today I learned how to style React components using CSS and how to embed JavaScr
 
 ### R1D59
 I learned how to style React components with style 'object' within a functional component, and how to use JS to manipulate them!
+
+### R1D60
+Learned how to pass in props into React components instead of hard coding information that needs to be rendered!
