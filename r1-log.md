@@ -183,3 +183,6 @@ I learned how to style React components with style 'object' within a functional 
 
 ### R1D60
 Learned how to pass in props into React components instead of hard coding information that needs to be rendered!
+
+### R1D61
+Today I learned and practiced creating a list of components while passing in properties using .map() method, and rendering those passed in props within different components! 
