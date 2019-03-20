@@ -186,3 +186,6 @@ Learned how to pass in props into React components instead of hard coding inform
 
 ### R1D61
 Today I learned and practiced creating a list of components while passing in properties using .map() method, and rendering those passed in props within different components! 
+
+### R1D62
+Started 'Zero to Mastery' Udemy course by @AndreiNeagoie and so far so good! I think the community plays a big part! Finished all the HTML section today and planning to continue later today.
