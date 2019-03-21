@@ -189,3 +189,6 @@ Today I learned and practiced creating a list of components while passing in pro
 
 ### R1D62
 Started 'Zero to Mastery' Udemy course by @AndreiNeagoie and so far so good! I think the community plays a big part! Finished all the HTML section today and planning to continue later today.
+
+### R1D63
+Finished basic CSS section of the Zero to Mastery course! Also spent a lot of time updating my portfolio website. 
