@@ -192,3 +192,6 @@ Started 'Zero to Mastery' Udemy course by @AndreiNeagoie and so far so good! I t
 
 ### R1D63
 Finished basic CSS section of the Zero to Mastery course! Also spent a lot of time updating my portfolio website. 
+
+### R1D64
+Finished up to lecture 84 on Zero to Mastery course. Working on the CSS layout challenge. 
