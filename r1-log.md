@@ -198,3 +198,6 @@ Finished up to lecture 84 on Zero to Mastery course. Working on the CSS layout c
 
 ### R1D65
 Finished up to lecture 84 on Zero to Mastery course. Finally started JS section! Brushing up on the basics right now but eager to move onto the advanced JS section really soon!
+
+### R1D66
+Finished up to lecture 128 on Zero to Mastery course. Completed the shopping list challenge! Just steps away from starting Advanced JS section. Very Excited!
