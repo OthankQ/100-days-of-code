@@ -201,3 +201,6 @@ Finished up to lecture 84 on Zero to Mastery course. Finally started JS section!
 
 ### R1D66
 Finished up to lecture 128 on Zero to Mastery course. Completed the shopping list challenge! Just steps away from starting Advanced JS section. Very Excited!
+
+### R1D67
+Finished up to lecture 137 and finished the gradient background generator challenge. The lectures are covering advanced JS now! Interesting stuff!
