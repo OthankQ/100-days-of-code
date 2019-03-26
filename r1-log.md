@@ -204,3 +204,6 @@ Finished up to lecture 128 on Zero to Mastery course. Completed the shopping lis
 
 ### R1D67
 Finished up to lecture 137 and finished the gradient background generator challenge. The lectures are covering advanced JS now! Interesting stuff!
+
+### R1D68
+Finished the Advanced JS section of the course. Worked on optional coding exercises at the end of the section and was wondering, what's the reasonable amount of time I should put into these coding challenges before I moved on.
