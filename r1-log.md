@@ -207,3 +207,6 @@ Finished up to lecture 137 and finished the gradient background generator challe
 
 ### R1D68
 Finished the Advanced JS section of the course. Worked on optional coding exercises at the end of the section and was wondering, what's the reasonable amount of time I should put into these coding challenges before I moved on.
+
+### R1D69
+Finished up to lecture #180 of Zero to Mastery course! Handled a lot of version control scenarios using Git and @github. I think I'm starting to get the hang of it now. Also, thank you @js_tut for the book! Can't wait to learn from it!
