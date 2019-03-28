@@ -210,3 +210,6 @@ Finished the Advanced JS section of the course. Worked on optional coding exerci
 
 ### R1D69
 Finished up to lecture #180 of Zero to Mastery course! Handled a lot of version control scenarios using Git and @github. I think I'm starting to get the hang of it now. Also, thank you @js_tut for the book! Can't wait to learn from it!
+
+### R1D70
+Finished lecture #190 of Zero to Mastery course! Started the React section and got to build components! Also started a website project with a friend of mine and did some good amount of structuring and styling on it!
