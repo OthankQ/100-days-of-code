@@ -213,3 +213,6 @@ Finished up to lecture #180 of Zero to Mastery course! Handled a lot of version 
 
 ### R1D70
 Finished lecture #190 of Zero to Mastery course! Started the React section and got to build components! Also started a website project with a friend of mine and did some good amount of structuring and styling on it!
+
+### R1D71
+Just managed to finish lecture #192 today. Props and state is not easy to wrap my head around. I 'kind of' get it, but not too confident. 
