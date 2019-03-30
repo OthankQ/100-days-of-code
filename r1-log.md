@@ -216,3 +216,6 @@ Finished lecture #190 of Zero to Mastery course! Started the React section and g
 
 ### R1D71
 Just managed to finish lecture #192 today. Props and state is not easy to wrap my head around. I 'kind of' get it, but not too confident. 
+
+### R1D72
+Listening and coding along to @tylermcginnis React.js Bootcamp lecture on Youtube. Really love how he breaks down React into smallest as possible concept to explain how the framework works.
