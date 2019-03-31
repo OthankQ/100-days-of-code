@@ -219,3 +219,6 @@ Just managed to finish lecture #192 today. Props and state is not easy to wrap m
 
 ### R1D72
 Listening and coding along to @tylermcginnis React.js Bootcamp lecture on Youtube. Really love how he breaks down React into smallest as possible concept to explain how the framework works.
+
+### R1D73
+Still digging into React with @tylermcginnis courses. Watched his bootcamp video on youtube and decided to subscribe to his other courses.
