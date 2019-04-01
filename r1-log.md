@@ -222,3 +222,6 @@ Listening and coding along to @tylermcginnis React.js Bootcamp lecture on Youtub
 
 ### R1D73
 Still digging into React with @tylermcginnis courses. Watched his bootcamp video on youtube and decided to subscribe to his other courses.
+
+### R1D74
+Learned how Webpack and Babel works their magic behind the scenes when using React and tried setting them up manually. Also learned how to use .map() and .filter() to pass in array data and create list elements depending on data length.
