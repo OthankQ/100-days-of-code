@@ -225,3 +225,6 @@ Still digging into React with @tylermcginnis courses. Watched his bootcamp video
 
 ### R1D74
 Learned how Webpack and Babel works their magic behind the scenes when using React and tried setting them up manually. Also learned how to use .map() and .filter() to pass in array data and create list elements depending on data length.
+
+### R1D75
+Learned about handling 'this' in a React component with .bind method. Also learned how to set and update the state of a component.
