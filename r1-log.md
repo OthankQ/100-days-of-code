@@ -228,3 +228,6 @@ Learned how Webpack and Babel works their magic behind the scenes when using Rea
 
 ### R1D75
 Learned about handling 'this' in a React component with .bind method. Also learned how to set and update the state of a component.
+
+### R1D76
+Learned about different types of components: functional, stateless functional, and stateless components. I also read upon different life cycle events that can be useful when making Ajax requests!
