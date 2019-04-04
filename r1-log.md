@@ -231,3 +231,6 @@ Learned about handling 'this' in a React component with .bind method. Also learn
 
 ### R1D76
 Learned about different types of components: functional, stateless functional, and stateless components. I also read upon different life cycle events that can be useful when making Ajax requests!
+
+### R1D77
+Learned about sending Ajax request from a React component and receiving data from an API 
