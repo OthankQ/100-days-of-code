@@ -234,3 +234,6 @@ Learned about different types of components: functional, stateless functional, a
 
 ### R1D77
 Learned about sending Ajax request from a React component and receiving data from an API 
+
+### R1D78
+Learned about React router and implemented router in tutorial project. What's a good way to practice React for beginners without the tutorial holding your hand all the way? 
