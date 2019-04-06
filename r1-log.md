@@ -237,3 +237,7 @@ Learned about sending Ajax request from a React component and receiving data fro
 
 ### R1D78
 Learned about React router and implemented router in tutorial project. What's a good way to practice React for beginners without the tutorial holding your hand all the way? 
+
+### R1D79
+Spent a lot of time trying to make a website retrieve data from Python a server using AJAX. Also learned about REST API and CRUD.
+
