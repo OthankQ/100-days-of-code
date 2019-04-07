@@ -241,3 +241,5 @@ Learned about React router and implemented router in tutorial project. What's a 
 ### R1D79
 Spent a lot of time trying to make a website retrieve data from Python a server using AJAX. Also learned about REST API and CRUD.
 
+### R1D80
+Learned how to get access to nested JSX tag with {props.children}. Practiced knowing when to refactor one React component into multiple components. Got an understanding of when to use one type of component over the other.
