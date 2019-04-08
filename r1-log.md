@@ -243,3 +243,6 @@ Spent a lot of time trying to make a website retrieve data from Python a server 
 
 ### R1D80
 Learned how to get access to nested JSX tag with {props.children}. Practiced knowing when to refactor one React component into multiple components. Got an understanding of when to use one type of component over the other.
+
+### R1D81
+Learned to use state in a class based React component and passing them as props to have them rendered differently depending on the state. Also Learned about three main component lifecycle methods.
