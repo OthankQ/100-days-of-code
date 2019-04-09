@@ -246,3 +246,6 @@ Learned how to get access to nested JSX tag with {props.children}. Practiced kno
 
 ### R1D81
 Learned to use state in a class based React component and passing them as props to have them rendered differently depending on the state. Also Learned about three main component lifecycle methods.
+
+### R1D82
+Finished section 6 of Stephen Grider's React tutorial. I feel like I have a better understanding of state and lifecycle methods than before.
