@@ -249,3 +249,6 @@ Learned to use state in a class based React component and passing them as props 
 
 ### R1D82
 Finished section 6 of Stephen Grider's React tutorial. I feel like I have a better understanding of state and lifecycle methods than before.
+
+### R1D83
+Learned about creating event listeners in a React component and how to avoid errors related to the context of the 'this' keyword.
