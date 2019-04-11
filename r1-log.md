@@ -252,3 +252,6 @@ Finished section 6 of Stephen Grider's React tutorial. I feel like I have a bett
 
 ### R1D83
 Learned about creating event listeners in a React component and how to avoid errors related to the context of the 'this' keyword.
+
+### R1D84
+Working on an app that sends an API request to Unsplash using Axios, receives data, then lays out the images received using React. Simple, but it is fun to work with an API requests.
