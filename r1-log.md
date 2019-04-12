@@ -255,3 +255,6 @@ Learned about creating event listeners in a React component and how to avoid err
 
 ### R1D84
 Working on an app that sends an API request to Unsplash using Axios, receives data, then lays out the images received using React. Simple, but it is fun to work with an API requests.
+
+### R1D85
+Finished the image fetching website. Learned a lot about form onChange, onSubmit callbacks, Axios API requests and controlled callbacks. On my way to build a similar video request website using Youtube API.
