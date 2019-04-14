@@ -347,3 +347,7 @@ Finished the image fetching website. Learned a lot about form onChange, onSubmit
 ### R1D86
 
 Still working on the video browsing website. Had it render a list of videos by sending an API request to Youtube. Getting a good grasp on getting a child component to talk to a parent component by passing down a callback function as props.
+
+### R1D87
+
+Started the Redux part of the lecture, and so far so good! Built a basic React web app with state that can be passed down as props. Planning to add in API request functionality using Axios
