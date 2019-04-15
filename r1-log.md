@@ -351,3 +351,7 @@ Still working on the video browsing website. Had it render a list of videos by s
 ### R1D87
 
 Started the Redux part of the lecture, and so far so good! Built a basic React web app with state that can be passed down as props. Planning to add in API request functionality using Axios
+
+### R1D88
+
+Built a simple todo app using React. Now learning how to import Redux into a React project and make them work together with a simple song-list app.
