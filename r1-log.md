@@ -355,3 +355,7 @@ Started the Redux part of the lecture, and so far so good! Built a basic React w
 ### R1D88
 
 Built a simple todo app using React. Now learning how to import Redux into a React project and make them work together with a simple song-list app.
+
+### R1D89
+
+Built a React app with a list of user card and search function that updates as you type in a search term. This was a part of a tutorial I had stopped to study more React. Needed few hints to make this work but proud of what I learned.
