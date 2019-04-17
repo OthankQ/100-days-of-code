@@ -359,3 +359,7 @@ Built a simple todo app using React. Now learning how to import Redux into a Rea
 ### R1D89
 
 Built a React app with a list of user card and search function that updates as you type in a search term. This was a part of a tutorial I had stopped to study more React. Needed few hints to make this work but proud of what I learned.
+
+### R1D90
+
+Back to learning Redux. Following through the Redux part of Stephen Grider's tutorial to get an idea of the whole picture of how React and Redux work together. Added connect and provider component to the project.
