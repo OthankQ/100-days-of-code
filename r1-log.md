@@ -363,3 +363,7 @@ Built a React app with a list of user card and search function that updates as y
 ### R1D90
 
 Back to learning Redux. Following through the Redux part of Stephen Grider's tutorial to get an idea of the whole picture of how React and Redux work together. Added connect and provider component to the project.
+
+### R1D91
+
+Following the Redux part in a tutorial and built an app that displays details about songs when clicked from a list of songs. Will continue on to the part that uses Async actions with Redux Thunk.
