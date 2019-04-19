@@ -367,3 +367,7 @@ Back to learning Redux. Following through the Redux part of Stephen Grider's tut
 ### R1D91
 
 Following the Redux part in a tutorial and built an app that displays details about songs when clicked from a list of songs. Will continue on to the part that uses Async actions with Redux Thunk.
+
+### R1D92
+
+Learned about Redux-Thunk and how it can be used to make API calls within Redux action creators with async/await. Might have to go over it again to have a good grasp on the concept. On a side note, I'm considering learning Typescript.
