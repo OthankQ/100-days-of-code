@@ -371,3 +371,7 @@ Following the Redux part in a tutorial and built an app that displays details ab
 ### R1D92
 
 Learned about Redux-Thunk and how it can be used to make API calls within Redux action creators with async/await. Might have to go over it again to have a good grasp on the concept. On a side note, I'm considering learning Typescript.
+
+### R1D93
+
+Got stuck hard trying to learn Redux-Thunk. Started studying Node as a way to cool my head, and also because I thought I was going to learn it later anyways. Played around with modules like chalk and yargs. Learned a bit about filesystem
