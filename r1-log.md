@@ -375,3 +375,7 @@ Learned about Redux-Thunk and how it can be used to make API calls within Redux 
 ### R1D93
 
 Got stuck hard trying to learn Redux-Thunk. Started studying Node as a way to cool my head, and also because I thought I was going to learn it later anyways. Played around with modules like chalk and yargs. Learned a bit about filesystem
+
+### R1D94
+
+Went back to learning basics of Redux to get a good grasp before I went back to learning Redux-Thunk. Remade the music details app. Node wise, I'm currently putting together a CLI notes taking app. Implemented adding and delete functions.
