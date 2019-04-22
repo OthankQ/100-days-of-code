@@ -379,3 +379,7 @@ Got stuck hard trying to learn Redux-Thunk. Started studying Node as a way to co
 ### R1D94
 
 Went back to learning basics of Redux to get a good grasp before I went back to learning Redux-Thunk. Remade the music details app. Node wise, I'm currently putting together a CLI notes taking app. Implemented adding and delete functions.
+
+### R1D95
+
+Now I feel like I have a better grasp on the concept of Redux and Redux-Thunk. Will need a lot of practice using them. Completed the Node CLI notes taking app.
