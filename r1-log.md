@@ -383,3 +383,7 @@ Went back to learning basics of Redux to get a good grasp before I went back to 
 ### R1D95
 
 Now I feel like I have a better grasp on the concept of Redux and Redux-Thunk. Will need a lot of practice using them. Completed the Node CLI notes taking app.
+
+### R1D96
+
+Studied Redux back from analogy by reading a book: Understanding Redux by @OhansEmmanuel It's a great read. Also refactored a website template and made it into a personal website. Having trouble registering custom domain name on Heroku.
