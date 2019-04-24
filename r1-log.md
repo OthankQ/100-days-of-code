@@ -386,4 +386,8 @@ Now I feel like I have a better grasp on the concept of Redux and Redux-Thunk. W
 
 ### R1D96
 
-Studied Redux back from analogy by reading a book: Understanding Redux by @OhansEmmanuel It's a great read. Also refactored a website template and made it into a personal website. Having trouble registering custom domain name on Heroku.
+Studied Redux back from analogy by reading a book: Understanding Redux by @OhansEmmanuel It's a great read. Also refactored a website template and made it into a personal website. Having trouble registering custom domain name on Herok
+
+### R1D97
+
+Still going through the Redux book. Trying to understand reducers and action creators. Also worked on the weather app using node, fetching api requests using request module.
