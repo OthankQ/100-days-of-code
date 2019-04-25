@@ -391,3 +391,7 @@ Studied Redux back from analogy by reading a book: Understanding Redux by @Ohans
 ### R1D97
 
 Still going through the Redux book. Trying to understand reducers and action creators. Also worked on the weather app using node, fetching api requests using request module.
+
+### R1D98
+
+Solved first two challenges in 'Understanding Redux'. It was challenging but I got a much better understanding while struggling to solve than watching a tutorial.
