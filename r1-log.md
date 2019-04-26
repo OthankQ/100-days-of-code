@@ -395,3 +395,7 @@ Still going through the Redux book. Trying to understand reducers and action cre
 ### R1D98
 
 Solved first two challenges in 'Understanding Redux'. It was challenging but I got a much better understanding while struggling to solve than watching a tutorial.
+
+### R1D99
+
+Learned and solved exercises on using callback functions to handle async process such as sending an API request within a function.
