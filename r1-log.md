@@ -403,3 +403,7 @@ Learned and solved exercises on using callback functions to handle async process
 ### R1D100
 
 Refactored the Node weather app with reusable API request function using callback functions. Started learning the basics of PHP. This marks the 100th day of my first round of #100DaysOfCode. I really learned a lot! Now off to round 2!
+
+### R2D1
+
+Added user input functionality to the CLI Node weather app. Learned about PHP Superglobals and made a basic website listing some of them out using Bootstrap cdn.
