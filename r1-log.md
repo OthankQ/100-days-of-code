@@ -407,3 +407,7 @@ Refactored the Node weather app with reusable API request function using callbac
 ### R2D1
 
 Added user input functionality to the CLI Node weather app. Learned about PHP Superglobals and made a basic website listing some of them out using Bootstrap cdn.
+
+### R2D2
+
+Created a barebones server using express.js with Node to use it for the weather app.
