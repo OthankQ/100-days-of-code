@@ -411,3 +411,7 @@ Added user input functionality to the CLI Node weather app. Learned about PHP Su
 ### R2D2
 
 Created a barebones server using express.js with Node to use it for the weather app.
+
+### R2D3
+
+Learned how to use Handlebars with Express (hbs) module and applied them to the weather app.
