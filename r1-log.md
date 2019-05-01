@@ -415,3 +415,7 @@ Created a barebones server using express.js with Node to use it for the weather 
 ### R2D3
 
 Learned how to use Handlebars with Express (hbs) module and applied them to the weather app.
+
+### R2D4
+
+Added handlebars header and footer partials to the existing weather app.
