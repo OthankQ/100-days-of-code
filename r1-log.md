@@ -419,3 +419,7 @@ Learned how to use Handlebars with Express (hbs) module and applied them to the 
 ### R2D4
 
 Added handlebars header and footer partials to the existing weather app.
+
+### R2D5
+
+Got tired of the node tutorial and decided to do some research and built a REST API with node from scratch. Also started looking into Python and machine learning for a side interest. Scikit looks confusing to use.
