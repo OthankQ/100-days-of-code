@@ -422,4 +422,8 @@ Added handlebars header and footer partials to the existing weather app.
 
 ### R2D5
 
-Got tired of the node tutorial and decided to do some research and built a REST API with node from scratch. Also started looking into Python and machine learning for a side interest. Scikit looks confusing to use.
+Got tired of the node tutorial and decided to do some research and built a REST API with node from scratch. Also started looking into Python and machine learning for a side interest. Scikit looks confusing to us
+
+### R2D6
+
+Attempted to write another Node API with a mongoDB database attached. Couldn't follow through because I couldn't connect their cluster to my application. Looking for a good article on how to do that with postgreSQL. Still searching.
