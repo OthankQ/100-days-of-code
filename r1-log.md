@@ -427,3 +427,7 @@ Got tired of the node tutorial and decided to do some research and built a REST 
 ### R2D6
 
 Attempted to write another Node API with a mongoDB database attached. Couldn't follow through because I couldn't connect their cluster to my application. Looking for a good article on how to do that with postgreSQL. Still searching.
+
+### R2D7
+
+Hooked up a mysql database to a node express server, wrote it to do the basic CRUD on the database. Now on to building an actual API with express and mysql.
