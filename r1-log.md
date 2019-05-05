@@ -431,3 +431,7 @@ Attempted to write another Node API with a mongoDB database attached. Couldn't f
 ### R2D7
 
 Hooked up a mysql database to a node express server, wrote it to do the basic CRUD on the database. Now on to building an actual API with express and mysql.
+
+### R2D8
+
+Learning SQL before writing an API with express. Going through it pretty quickly. Feeling a bit burnt out.
