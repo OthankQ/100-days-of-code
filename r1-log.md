@@ -435,3 +435,7 @@ Hooked up a mysql database to a node express server, wrote it to do the basic CR
 ### R2D8
 
 Learning SQL before writing an API with express. Going through it pretty quickly. Feeling a bit burnt out.
+
+### R2D9
+
+Going through a book on Python 3. It's refreshing to learn a new language. Looking into Django framework.
