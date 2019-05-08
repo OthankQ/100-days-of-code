@@ -443,3 +443,7 @@ Going through a book on Python 3. It's refreshing to learn a new language. Looki
 ### R2D10
 
 Learned about opening, writing, reading files with Python. Also learned about class and modules. It's my first time learning an object oriented programming language. Interesting stuff!
+
+### R2D11
+
+Learned how to make lambda functions and how to import your files in as modules in Python. Also learned how to handle errors using try and except, how to pack things as a package. Made simple functions like CLI memo app. 
