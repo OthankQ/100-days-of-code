@@ -446,4 +446,8 @@ Learned about opening, writing, reading files with Python. Also learned about cl
 
 ### R2D11
 
-Learned how to make lambda functions and how to import your files in as modules in Python. Also learned how to handle errors using try and except, how to pack things as a package. Made simple functions like CLI memo app. 
+Learned how to make lambda functions and how to import your files in as modules in Python. Also learned how to handle errors using try and except, how to pack things as a package. Made simple functions like CLI memo app.
+
+### R2D12
+
+Almost through with the Python book. Solved a few practice problems. Started learning regular expressions in Python.
