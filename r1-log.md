@@ -451,3 +451,7 @@ Learned how to make lambda functions and how to import your files in as modules 
 ### R2D12
 
 Almost through with the Python book. Solved a few practice problems. Started learning regular expressions in Python.
+
+### R2D13
+
+Finished the Python book. Learned a lot about regular expressions. It feels like I'm trying to decipher a code :P Started learning about deep learning. Wrote a code that figures out a rmse based on a set of data.
