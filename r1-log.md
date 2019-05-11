@@ -455,3 +455,7 @@ Almost through with the Python book. Solved a few practice problems. Started lea
 ### R2D13
 
 Finished the Python book. Learned a lot about regular expressions. It feels like I'm trying to decipher a code :P Started learning about deep learning. Wrote a code that figures out a rmse based on a set of data.
+
+### R2D14
+
+Built a basic bare bones Flask server. Learned about Multiple linear regression and built a simple code that does gradient descent. Started learning about logistic regression.
