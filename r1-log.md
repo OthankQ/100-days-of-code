@@ -459,3 +459,7 @@ Finished the Python book. Learned a lot about regular expressions. It feels like
 ### R2D14
 
 Built a basic bare bones Flask server. Learned about Multiple linear regression and built a simple code that does gradient descent. Started learning about logistic regression.
+
+### R2D15
+
+Wrote a model that classifies what type of iris species the given data is. Also brushed upon Python classes.
