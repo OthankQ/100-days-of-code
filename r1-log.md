@@ -463,3 +463,7 @@ Built a basic bare bones Flask server. Learned about Multiple linear regression 
 ### R2D15
 
 Wrote a model that classifies what type of iris species the given data is. Also brushed upon Python classes.
+
+### R2D16
+
+Got an email from Google Japan I applied a few days back saying there will be an online coding quiz next week. Going over basic algorithms with Python like recursive and arrays.
