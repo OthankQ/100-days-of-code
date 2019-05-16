@@ -467,3 +467,7 @@ Wrote a model that classifies what type of iris species the given data is. Also 
 ### R2D16
 
 Got an email from Google Japan I applied a few days back saying there will be an online coding quiz next week. Going over basic algorithms with Python like recursive and arrays.
+
+### R2D 17/18
+
+Flew through the algorithm book. Will need to go back to it. Also need to understand quick sort better. Spent more time than necessary trying to setup a Flask server using WSL because I couldn't get zsh to work.
