@@ -471,3 +471,7 @@ Got an email from Google Japan I applied a few days back saying there will be an
 ### R2D 17/18
 
 Flew through the algorithm book. Will need to go back to it. Also need to understand quick sort better. Spent more time than necessary trying to setup a Flask server using WSL because I couldn't get zsh to work.
+
+### R2D19
+
+Went over creating classes in Python. Practiced creating classes not to forget. Still having trouble traversing graph in Python.
