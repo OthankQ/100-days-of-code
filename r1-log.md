@@ -475,3 +475,7 @@ Flew through the algorithm book. Will need to go back to it. Also need to unders
 ### R2D19
 
 Went over creating classes in Python. Practiced creating classes not to forget. Still having trouble traversing graph in Python.
+
+### R2D20
+
+Brushed upon what HTTP request and response looks like, status codes, the REST and GraphQL architecture of an API. Added 'sign-up' endpoint to the ping pong api to start building a minimal version of Twitter
