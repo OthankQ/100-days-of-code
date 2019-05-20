@@ -479,3 +479,7 @@ Went over creating classes in Python. Practiced creating classes not to forget. 
 ### R2D20
 
 Brushed upon what HTTP request and response looks like, status codes, the REST and GraphQL architecture of an API. Added 'sign-up' endpoint to the ping pong api to start building a minimal version of Twitter
+
+### R2D21/22
+
+Didn't work much on the Python server. Instead, tried to prepare for the upcoming internship quiz from Google Japan. Read about different data structures and which is good for what and solved a few quizzes.
