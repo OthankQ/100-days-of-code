@@ -483,3 +483,7 @@ Brushed upon what HTTP request and response looks like, status codes, the REST a
 ### R2D21/22
 
 Didn't work much on the Python server. Instead, tried to prepare for the upcoming internship quiz from Google Japan. Read about different data structures and which is good for what and solved a few quizzes.
+
+### R2D23
+
+Added tweet and follow endpoint to the minimal version of twitter server.
