@@ -491,3 +491,7 @@ Added tweet and follow endpoint to the minimal version of twitter server.
 ### R2D24
 
 After taking the Google internship quiz, I came to realize the importance of 'problem solving' skill. I think I'll make @hackerrank my daily routine. Solved three python quizzes today. Having trouble coming up with a fun python project.
+
+### R2D25
+
+Solved two python questions on Hackerrank. Also solved first two questions on Project Euler. Felt a lot harder than it should be. stuck on the third problem.
