@@ -495,3 +495,7 @@ After taking the Google internship quiz, I came to realize the importance of 'pr
 ### R2D25
 
 Solved two python questions on Hackerrank. Also solved first two questions on Project Euler. Felt a lot harder than it should be. stuck on the third problem.
+
+### R2D26
+
+Solved a euler project, by hand... on to solve the first interview problem in Hackerrank. Feeling myself getting better at finding out what the question is really asking for.
