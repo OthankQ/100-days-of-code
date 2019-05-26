@@ -499,3 +499,7 @@ Solved two python questions on Hackerrank. Also solved first two questions on Pr
 ### R2D26
 
 Solved a euler project, by hand... on to solve the first interview problem in Hackerrank. Feeling myself getting better at finding out what the question is really asking for.
+
+### R2D27
+
+Been solving Interview Preparation Kit problems on Hackerrank. Solved around 10 questions today. and around 2 yesterday. I think I'm starting to enjoy that moment when you finally get the code right.
