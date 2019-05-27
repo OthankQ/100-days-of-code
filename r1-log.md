@@ -500,6 +500,10 @@ Solved two python questions on Hackerrank. Also solved first two questions on Pr
 
 Solved a euler project, by hand... on to solve the first interview problem in Hackerrank. Feeling myself getting better at finding out what the question is really asking for.
 
-### R2D27
+### R2D27/28
 
 Been solving Interview Preparation Kit problems on Hackerrank. Solved around 10 questions today. and around 2 yesterday. I think I'm starting to enjoy that moment when you finally get the code right.
+
+### R2D29
+
+Taking data structure and algorithm course from Google on Udacity. On linked list right now. Learned how to create nodes and linked list with Python class. Also took the first lecture of the MIT course on algorithm on Youtube.
