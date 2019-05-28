@@ -507,3 +507,7 @@ Been solving Interview Preparation Kit problems on Hackerrank. Solved around 10 
 ### R2D29
 
 Taking data structure and algorithm course from Google on Udacity. On linked list right now. Learned how to create nodes and linked list with Python class. Also took the first lecture of the MIT course on algorithm on Youtube.
+
+### R2D30
+
+Udacity Google course continued. Learned about stack and queue and implemented them with linked list class in Python. Hoping to use the knowledge for solving problems soon.
