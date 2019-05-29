@@ -511,3 +511,7 @@ Taking data structure and algorithm course from Google on Udacity. On linked lis
 ### R2D30
 
 Udacity Google course continued. Learned about stack and queue and implemented them with linked list class in Python. Hoping to use the knowledge for solving problems soon.
+
+### R2D31
+
+Solved two challenges 3 challenges on HackerRank. Can't really say it was a productive day.
