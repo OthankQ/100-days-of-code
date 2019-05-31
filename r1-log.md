@@ -515,3 +515,7 @@ Udacity Google course continued. Learned about stack and queue and implemented t
 ### R2D31
 
 Solved two challenges 3 challenges on HackerRank. Can't really say it was a productive day.
+
+### R2D32
+
+Been struggling to keep myself motivated lately. I solved a few problems on Hackerrank and learned how to render template files using Flask.
