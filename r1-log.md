@@ -519,3 +519,7 @@ Solved two challenges 3 challenges on HackerRank. Can't really say it was a prod
 ### R2D32
 
 Been struggling to keep myself motivated lately. I solved a few problems on Hackerrank and learned how to render template files using Flask.
+
+### R2D33
+
+Studied basic Swift syntax using Sololearn because I don't have access to a mac yet. Getting ready to start developing for ios.
