@@ -523,3 +523,7 @@ Been struggling to keep myself motivated lately. I solved a few problems on Hack
 ### R2D33
 
 Studied basic Swift syntax using Sololearn because I don't have access to a mac yet. Getting ready to start developing for ios.
+
+### R2D34
+
+Studied Swift array, conditional, string and loop syntax on Sololearn.
