@@ -527,3 +527,7 @@ Studied basic Swift syntax using Sololearn because I don't have access to a mac 
 ### R2D34
 
 Studied Swift array, conditional, string and loop syntax on Sololearn.
+
+### R2D35
+
+Learned about set datatype in Swift. Seems similar to how set works in Python
