@@ -535,3 +535,7 @@ Learned about set datatype in Swift. Seems similar to how set works in Python
 ### R2D36
 
 Learned about dictionary data type and how declaring and calling functions work in Swift. It's cool how you can declare multiple return values wrapped in a tuple, then access them using dot notation.
+
+### R2D37
+
+While waiting for the mac mini, I studied upon Swift functions, how it functions can return functions. reminded me of the JS callbacks. Also tried to start learning Flutter. Couldn't resolve tools.jar error on Android Studio.
