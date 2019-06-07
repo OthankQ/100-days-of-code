@@ -539,3 +539,7 @@ Learned about dictionary data type and how declaring and calling functions work 
 ### R2D37
 
 While waiting for the mac mini, I studied upon Swift functions, how it functions can return functions. reminded me of the JS callbacks. Also tried to start learning Flutter. Couldn't resolve tools.jar error on Android Studio.
+
+### R2D38
+
+Still haven't figured out a way to properly setup Flutter developing environment. Taking basic Swift syntax course on lynda.com, all the way up to dictionaries.
