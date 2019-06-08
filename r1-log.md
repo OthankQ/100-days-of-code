@@ -543,3 +543,7 @@ While waiting for the mac mini, I studied upon Swift functions, how it functions
 ### R2D38
 
 Still haven't figured out a way to properly setup Flutter developing environment. Taking basic Swift syntax course on lynda.com, all the way up to dictionaries.
+
+### R2D39
+
+Finally got the Mac mini. Played around with the Xcode playground using the exercise code file from lynda.com lecture. Learned how to use objects using IBoutlet and IBaction.
