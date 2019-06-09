@@ -547,3 +547,7 @@ Still haven't figured out a way to properly setup Flutter developing environment
 ### R2D39
 
 Finally got the Mac mini. Played around with the Xcode playground using the exercise code file from lynda.com lecture. Learned how to use objects using IBoutlet and IBaction.
+
+### R2D40
+
+Finally got my hands dirty making really simple apps using Xcode. Lightbulb that turns on and off, app showing image using picker viewer object, alarm app that turns the background app using date picker object. Interesting stuff.
