@@ -551,3 +551,7 @@ Finally got the Mac mini. Played around with the Xcode playground using the exer
 ### R2D40
 
 Finally got my hands dirty making really simple apps using Xcode. Lightbulb that turns on and off, app showing image using picker viewer object, alarm app that turns the background app using date picker object. Interesting stuff.
+
+### R2D41
+
+Studied upon basic Swift syntax including unwrapping optionals, switch statements, repeat-while. Following this ios tutorial on Youtube by @CodeWithChris 
