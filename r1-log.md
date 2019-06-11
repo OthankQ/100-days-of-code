@@ -555,3 +555,7 @@ Finally got my hands dirty making really simple apps using Xcode. Lightbulb that
 ### R2D41
 
 Studied upon basic Swift syntax including unwrapping optionals, switch statements, repeat-while. Following this ios tutorial on Youtube by @CodeWithChris 
+
+### R2D42
+
+More on Swift functions syntax. Returning an optional with a function then unwrapping it with an optional binding. Taking a look at SwiftUI. The syntax reminds me of React a little bit.
