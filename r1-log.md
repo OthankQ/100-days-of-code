@@ -559,3 +559,7 @@ Studied upon basic Swift syntax including unwrapping optionals, switch statement
 ### R2D42
 
 More on Swift functions syntax. Returning an optional with a function then unwrapping it with an optional binding. Taking a look at SwiftUI. The syntax reminds me of React a little bit.
+
+### R2D43
+
+Made my first 'view' with Swift UI following @CodeWithChris tutorial. Unfortunately, because I don't have access to MacOS 10.15 Catalina yet, I'm getting by with Xcode playground at the moment. Learned about closure in Swift.
