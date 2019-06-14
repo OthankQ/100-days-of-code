@@ -563,3 +563,7 @@ More on Swift functions syntax. Returning an optional with a function then unwra
 ### R2D43
 
 Made my first 'view' with Swift UI following @CodeWithChris tutorial. Unfortunately, because I don't have access to MacOS 10.15 Catalina yet, I'm getting by with Xcode playground at the moment. Learned about closure in Swift.
+
+### R2D44
+
+Learned more about functions and classes in Swift. Started watching @CodeWithChris videos on Swift basics and app creating using Xcode. Hoping to acquire some knowledge and skills by the end of the videos, enough to do things on my own
