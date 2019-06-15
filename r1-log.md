@@ -567,3 +567,7 @@ Made my first 'view' with Swift UI following @CodeWithChris tutorial. Unfortunat
 ### R2D44
 
 Learned more about functions and classes in Swift. Started watching @CodeWithChris videos on Swift basics and app creating using Xcode. Hoping to acquire some knowledge and skills by the end of the videos, enough to do things on my own
+
+### R2D45
+
+More practice with constraints  and layout in Xcode. Also studied more on classes, initializers in Swift and inheritance. Want to start my own project but quite not getting where to start.
