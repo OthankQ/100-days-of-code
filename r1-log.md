@@ -571,3 +571,7 @@ Learned more about functions and classes in Swift. Started watching @CodeWithChr
 ### R2D45
 
 More practice with constraints  and layout in Xcode. Also studied more on classes, initializers in Swift and inheritance. Want to start my own project but quite not getting where to start.
+
+### R2D46
+
+Mistyped yesterday's day count...oops! Finished @CodeWithChris ios beginner course on Youtube. Amazing course! I highly recommend it. Started a little project of my own. Having trouble with date picker UI formatting.
