@@ -575,3 +575,7 @@ More practice with constraints  and layout in Xcode. Also studied more on classe
 ### R2D46
 
 Mistyped yesterday's day count...oops! Finished @CodeWithChris ios beginner course on Youtube. Amazing course! I highly recommend it. Started a little project of my own. Having trouble with date picker UI formatting.
+
+### R2D47
+
+Working on a workout timer app. I had it do a countdown from a selected time anywhere between 0 and 5 min. Added reset, start and pause functionality. Next step: add alarm and a flashing screen.
