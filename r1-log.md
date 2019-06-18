@@ -579,3 +579,7 @@ Mistyped yesterday's day count...oops! Finished @CodeWithChris ios beginner cour
 ### R2D47
 
 Working on a workout timer app. I had it do a countdown from a selected time anywhere between 0 and 5 min. Added reset, start and pause functionality. Next step: add alarm and a flashing screen.
+
+### R2D48
+
+Added a second view, alarm functionality to the workout timer app. Next step: Add notification. Following @CodeWithChris tutorial on making card matching game app. Learning a lot from it.
