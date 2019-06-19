@@ -583,3 +583,7 @@ Working on a workout timer app. I had it do a countdown from a selected time any
 ### R2D48
 
 Added a second view, alarm functionality to the workout timer app. Next step: Add notification. Following @CodeWithChris tutorial on making card matching game app. Learning a lot from it.
+
+### R2D49
+
+Added notification functionality to the workout timer app. Listened to a lecture from Stanford on ios development and learned about the MVC architecture
