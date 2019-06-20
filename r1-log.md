@@ -587,3 +587,7 @@ Added a second view, alarm functionality to the workout timer app. Next step: Ad
 ### R2D49
 
 Added notification functionality to the workout timer app. Listened to a lecture from Stanford on ios development and learned about the MVC architecture
+
+### R2D50
+
+Changed the buttons' styles to look more like a 'button'. Also switched the location of the code that asks for notification permission to when the app gets launched the first time. Refactored the man viewcontroller class.
