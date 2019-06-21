@@ -591,3 +591,7 @@ Added notification functionality to the workout timer app. Listened to a lecture
 ### R2D50
 
 Changed the buttons' styles to look more like a 'button'. Also switched the location of the code that asks for notification permission to when the app gets launched the first time. Refactored the man viewcontroller class.
+
+### R2D51
+
+Following @CodeWithChris tutorial on making card matching app. Still learning about MVC pattern. So far built the 'model' part of the app and now ready to build out the collection view cell class and learn about delegate.
