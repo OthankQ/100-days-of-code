@@ -595,3 +595,7 @@ Changed the buttons' styles to look more like a 'button'. Also switched the loca
 ### R2D51
 
 Following @CodeWithChris tutorial on making card matching app. Still learning about MVC pattern. So far built the 'model' part of the app and now ready to build out the collection view cell class and learn about delegate.
+
+### R2D52
+
+Got confused a bit during @CodeWithChris tutorial with delegate and protocol. Looked up other sources to study this topic on but still kinda stuck. Building a new project using motion sensor in iPhone
