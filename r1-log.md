@@ -599,3 +599,6 @@ Following @CodeWithChris tutorial on making card matching app. Still learning ab
 ### R2D52
 
 Got confused a bit during @CodeWithChris tutorial with delegate and protocol. Looked up other sources to study this topic on but still kinda stuck. Building a new project using motion sensor in iPhone
+
+### R2D53
+Started learning about table view in Xcode while following a checklist app tutorial on raywenderlich.com So far learned how to create custom table view controller. Maybe it's not a bad timing to start learning about Swift UI?
