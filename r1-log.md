@@ -607,3 +607,7 @@ Started learning about table view in Xcode while following a checklist app tutor
 ### R2D54
 
 Got confused with the whole delegate and protocol thing in Swift. Was following raywenderlich.com course and thought I was lacking the fundamentals. Started following Apple's official guide to building apps.
+
+### R2D55
+
+Still following Apple's iOS development guide. Implementing gestures and image picker then controlling them using delegates. Still confusing.
