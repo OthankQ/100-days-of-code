@@ -611,3 +611,7 @@ Got confused with the whole delegate and protocol thing in Swift. Was following 
 ### R2D55
 
 Still following Apple's iOS development guide. Implementing gestures and image picker then controlling them using delegates. Still confusing.
+
+### R2D56
+
+Went back to the basics and learned how to create image assets I need for projects using Canva. Played around with Xcode storyboard.
