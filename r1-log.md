@@ -615,3 +615,7 @@ Still following Apple's iOS development guide. Implementing gestures and image p
 ### R2D56
 
 Went back to the basics and learned how to create image assets I need for projects using Canva. Played around with Xcode storyboard.
+
+### R2D57
+
+Currently on creating a BMI calculator app. Struggling with getting values from text field and unwrapping them as the right data type.
