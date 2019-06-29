@@ -619,3 +619,7 @@ Went back to the basics and learned how to create image assets I need for projec
 ### R2D57
 
 Currently on creating a BMI calculator app. Struggling with getting values from text field and unwrapping them as the right data type.
+
+### R2D58
+
+Learned how to play audio using AVfoundation in Swift. Started my own snippet notepad to store my own snippets of code I can use later.
