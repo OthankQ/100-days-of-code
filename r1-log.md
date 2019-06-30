@@ -623,3 +623,7 @@ Currently on creating a BMI calculator app. Struggling with getting values from 
 ### R2D58
 
 Learned how to play audio using AVfoundation in Swift. Started my own snippet notepad to store my own snippets of code I can use later.
+
+### R2D59
+
+Quiz app in progress. On getting used to structuring code in MVC design pattern. Using UIAlertController is confusing that I had expected.
