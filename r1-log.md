@@ -627,3 +627,7 @@ Learned how to play audio using AVfoundation in Swift. Started my own snippet no
 ### R2D59
 
 Quiz app in progress. On getting used to structuring code in MVC design pattern. Using UIAlertController is confusing that I had expected.
+
+### R2D60
+
+Finished the quiz app. Learned how to incorporate third party objective-c code using bridging header file.
