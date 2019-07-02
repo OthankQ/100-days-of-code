@@ -631,3 +631,7 @@ Quiz app in progress. On getting used to structuring code in MVC design pattern.
 ### R2D60
 
 Finished the quiz app. Learned how to incorporate third party objective-c code using bridging header file.
+
+### R2D61
+
+Practiced laying views out on screen using auto layout and setting constraints. Still confused on how to set different constraints for different screen sizes and orientations.
