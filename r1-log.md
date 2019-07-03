@@ -635,3 +635,7 @@ Finished the quiz app. Learned how to incorporate third party objective-c code u
 ### R2D61
 
 Practiced laying views out on screen using auto layout and setting constraints. Still confused on how to set different constraints for different screen sizes and orientations.
+
+### R2D62
+
+Added shuffle functionality to the quiz app. Refreshed myself on creating class, inheriting, overriding in Swift
