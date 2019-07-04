@@ -554,7 +554,7 @@ Finally got my hands dirty making really simple apps using Xcode. Lightbulb that
 
 ### R2D41
 
-Studied upon basic Swift syntax including unwrapping optionals, switch statements, repeat-while. Following this ios tutorial on Youtube by @CodeWithChris 
+Studied upon basic Swift syntax including unwrapping optionals, switch statements, repeat-while. Following this ios tutorial on Youtube by @CodeWithChris
 
 ### R2D42
 
@@ -570,7 +570,7 @@ Learned more about functions and classes in Swift. Started watching @CodeWithChr
 
 ### R2D45
 
-More practice with constraints  and layout in Xcode. Also studied more on classes, initializers in Swift and inheritance. Want to start my own project but quite not getting where to start.
+More practice with constraints and layout in Xcode. Also studied more on classes, initializers in Swift and inheritance. Want to start my own project but quite not getting where to start.
 
 ### R2D46
 
@@ -639,3 +639,7 @@ Practiced laying views out on screen using auto layout and setting constraints. 
 ### R2D62
 
 Added shuffle functionality to the quiz app. Refreshed myself on creating class, inheriting, overriding in Swift
+
+### R2D63
+
+Learned more about optionals in swift and how it keeps your app from crashing. Trying to install cocoapods on my mac in cloud computer. No luck yet.
