@@ -643,3 +643,7 @@ Added shuffle functionality to the quiz app. Refreshed myself on creating class,
 ### R2D63
 
 Learned more about optionals in swift and how it keeps your app from crashing. Trying to install cocoapods on my mac in cloud computer. No luck yet.
+
+### R2D64
+
+Added GPS functionality to the weather app using CoreLocation library. Also learned how to get location permission from users.
