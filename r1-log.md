@@ -647,3 +647,7 @@ Learned more about optionals in swift and how it keeps your app from crashing. T
 ### R2D64
 
 Added GPS functionality to the weather app using CoreLocation library. Also learned how to get location permission from users.
+
+### R2D65
+
+Implemented Alamofire to the weather app to send HTTP request to open weather map API.
