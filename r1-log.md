@@ -651,3 +651,7 @@ Added GPS functionality to the weather app using CoreLocation library. Also lear
 ### R2D65
 
 Implemented Alamofire to the weather app to send HTTP request to open weather map API.
+
+### R2D66
+
+Learned more about segue in detail and how to pass data from one viewcontroller to another. Feel like I learned a great piece of knowledge today.
