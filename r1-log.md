@@ -655,3 +655,7 @@ Implemented Alamofire to the weather app to send HTTP request to open weather ma
 ### R2D66
 
 Learned more about segue in detail and how to pass data from one viewcontroller to another. Feel like I learned a great piece of knowledge today.
+
+### R2D67
+
+Learned how to create protocol, make a view controller conform to that protocol, set current view controller as the delegate to another view controller to receive data from that view controller. Also learned about optional chaining.
