@@ -639,3 +639,7 @@ Practiced laying views out on screen using auto layout and setting constraints. 
 ### R2D62
 
 Added shuffle functionality to the quiz app. Refreshed myself on creating class, inheriting, overriding in Swift
+
+### R2D63
+
+More in-depth practice on passing data back and forth multiple screens using protocol and delegate. Created a practice project changing label with textfield input value.
