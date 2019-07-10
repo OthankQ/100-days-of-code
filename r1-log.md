@@ -554,7 +554,7 @@ Finally got my hands dirty making really simple apps using Xcode. Lightbulb that
 
 ### R2D41
 
-Studied upon basic Swift syntax including unwrapping optionals, switch statements, repeat-while. Following this ios tutorial on Youtube by @CodeWithChris 
+Studied upon basic Swift syntax including unwrapping optionals, switch statements, repeat-while. Following this ios tutorial on Youtube by @CodeWithChris
 
 ### R2D42
 
@@ -570,7 +570,7 @@ Learned more about functions and classes in Swift. Started watching @CodeWithChr
 
 ### R2D45
 
-More practice with constraints  and layout in Xcode. Also studied more on classes, initializers in Swift and inheritance. Want to start my own project but quite not getting where to start.
+More practice with constraints and layout in Xcode. Also studied more on classes, initializers in Swift and inheritance. Want to start my own project but quite not getting where to start.
 
 ### R2D46
 
@@ -641,5 +641,25 @@ Practiced laying views out on screen using auto layout and setting constraints. 
 Added shuffle functionality to the quiz app. Refreshed myself on creating class, inheriting, overriding in Swift
 
 ### R2D63
+
+Learned more about optionals in swift and how it keeps your app from crashing. Trying to install cocoapods on my mac in cloud computer. No luck yet.
+
+### R2D64
+
+Added GPS functionality to the weather app using CoreLocation library. Also learned how to get location permission from users.
+
+### R2D65
+
+Implemented Alamofire to the weather app to send HTTP request to open weather map API.
+
+### R2D66
+
+Learned more about segue in detail and how to pass data from one viewcontroller to another. Feel like I learned a great piece of knowledge today.
+
+### R2D67
+
+Learned how to create protocol, make a view controller conform to that protocol, set current view controller as the delegate to another view controller to receive data from that view controller. Also learned about optional chaining.
+
+### R2D68
 
 More in-depth practice on passing data back and forth multiple screens using protocol and delegate. Created a practice project changing label with textfield input value.
