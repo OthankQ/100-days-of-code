@@ -663,3 +663,7 @@ Learned how to create protocol, make a view controller conform to that protocol,
 ### R2D68
 
 More in-depth practice on passing data back and forth multiple screens using protocol and delegate. Created a practice project changing label with textfield input value.
+
+### R2D69
+
+Wrapped up the very basic weather app that shows the user what degree it is in different units, weather status with an icon, and city name via a text label. Think I might implement hourly forecast. Anyone know a good free weather API?
