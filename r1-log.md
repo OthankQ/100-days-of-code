@@ -667,3 +667,7 @@ More in-depth practice on passing data back and forth multiple screens using pro
 ### R2D69
 
 Wrapped up the very basic weather app that shows the user what degree it is in different units, weather status with an icon, and city name via a text label. Think I might implement hourly forecast. Anyone know a good free weather API?
+
+### R2D70
+
+Made a Bitcoin price checker where you can check price of one bitcoin in dozens of currencies. Learned how to setup and link Firebase realtime database to an iOS app.
