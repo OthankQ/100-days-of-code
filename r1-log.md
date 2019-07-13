@@ -671,3 +671,7 @@ Wrapped up the very basic weather app that shows the user what degree it is in d
 ### R2D70
 
 Made a Bitcoin price checker where you can check price of one bitcoin in dozens of currencies. Learned how to setup and link Firebase realtime database to an iOS app.
+
+### R2D71
+
+Working on a Whatsapp clone. Implemented signout, registration, login feature. Learned how to create and use navigation controller, also how to pop to root view controller. Completion handlers and closures.
