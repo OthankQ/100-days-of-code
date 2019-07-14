@@ -675,3 +675,7 @@ Made a Bitcoin price checker where you can check price of one bitcoin in dozens 
 ### R2D71
 
 Working on a Whatsapp clone. Implemented signout, registration, login feature. Learned how to create and use navigation controller, also how to pop to root view controller. Completion handlers and closures.
+
+### R2D72
+
+Displayed hardcoded messages in cells using Table View. Learned to use a few methods like dequeReusableCell related to table views. Implemented UIAnimation to textfield and methods to send messages to Firebase database.
