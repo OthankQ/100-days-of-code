@@ -679,3 +679,7 @@ Working on a Whatsapp clone. Implemented signout, registration, login feature. L
 ### R2D72
 
 Displayed hardcoded messages in cells using Table View. Learned to use a few methods like dequeReusableCell related to table views. Implemented UIAnimation to textfield and methods to send messages to Firebase database.
+
+### R2D73
+
+Finished the Whatsapp clone app. It was interesting to see how the Firebase takes a snapshot of any changes made to its data and sends it back to the app so it could be parsed for presentation.
