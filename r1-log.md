@@ -683,3 +683,7 @@ Displayed hardcoded messages in cells using Table View. Learned to use a few met
 ### R2D73
 
 Finished the Whatsapp clone app. It was interesting to see how the Firebase takes a snapshot of any changes made to its data and sends it back to the app so it could be parsed for presentation.
+
+### R2D74
+
+Started a todo list app project. Finished creating a custom UITableViewController class. Learned how to create table view from inheriting instead of conforming to protocols and setting delegates.
