@@ -687,3 +687,7 @@ Finished the Whatsapp clone app. It was interesting to see how the Firebase take
 ### R2D74
 
 Started a todo list app project. Finished creating a custom UITableViewController class. Learned how to create table view from inheriting instead of conforming to protocols and setting delegates.
+
+### R2D75
+
+Added a feature so check marks appear in each cell in the table view when clicked. Also added new item functionality. Next is learning how to use local data storage.
