@@ -691,3 +691,7 @@ Started a todo list app project. Finished creating a custom UITableViewControlle
 ### R2D75
 
 Added a feature so check marks appear in each cell in the table view when clicked. Also added new item functionality. Next is learning how to use local data storage.
+
+### R2D76
+
+Made a custom data model class to store information about each cells in the todo app. Refactored some of the code.
