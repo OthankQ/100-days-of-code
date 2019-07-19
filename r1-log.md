@@ -695,3 +695,7 @@ Added a feature so check marks appear in each cell in the table view when clicke
 ### R2D76
 
 Made a custom data model class to store information about each cells in the todo app. Refactored some of the code.
+
+### R2D77
+
+Not much progress today. Just some simple refactoring and learning new concepts like what sandboxing is in iOS.
