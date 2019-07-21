@@ -699,3 +699,7 @@ Made a custom data model class to store information about each cells in the todo
 ### R2D77
 
 Not much progress today. Just some simple refactoring and learning new concepts like what sandboxing is in iOS.
+
+### R2D78
+
+Learned how to save user data using Core Data and implemented it in the todo list app. Learned about the concept of context and persistent container.
