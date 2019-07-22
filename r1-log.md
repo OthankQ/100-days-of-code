@@ -702,4 +702,8 @@ Not much progress today. Just some simple refactoring and learning new concepts 
 
 ### R2D78
 
-Learned how to save user data using Core Data and implemented it in the todo list app. Learned about the concept of context and persistent container.
+Learned how to save user data using Core Data and implemented it in the todo list app. Learned about the concept of context and persistent container.  
+
+### R2D79
+
+Implemented code to pull out the saved data from Core Data and display it onto the table view.
