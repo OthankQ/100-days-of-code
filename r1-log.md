@@ -707,3 +707,7 @@ Learned how to save user data using Core Data and implemented it in the todo lis
 ### R2D79
 
 Implemented code to pull out the saved data from Core Data and display it onto the table view.
+
+### R2D80
+
+Learned and implemented methods to update and delete data from Core Data to the todo list app.
