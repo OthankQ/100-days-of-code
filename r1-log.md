@@ -711,3 +711,7 @@ Implemented code to pull out the saved data from Core Data and display it onto t
 ### R2D80
 
 Learned and implemented methods to update and delete data from Core Data to the todo list app.
+
+### R2D81
+
+Learned how to insert UISearchbar and divide up the controller code using extensions. Did just that to cut up the code into smaller pieces with different functionalities.
