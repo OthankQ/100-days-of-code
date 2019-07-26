@@ -715,3 +715,7 @@ Learned and implemented methods to update and delete data from Core Data to the 
 ### R2D81
 
 Learned how to insert UISearchbar and divide up the controller code using extensions. Did just that to cut up the code into smaller pieces with different functionalities.
+
+### R2D82
+
+Started my own project to get out of the tutorial purgatory. I got a basic prototype made with crude UI and basic functionality.
