@@ -719,3 +719,7 @@ Learned how to insert UISearchbar and divide up the controller code using extens
 ### R2D82
 
 Started my own project to get out of the tutorial purgatory. I got a basic prototype made with crude UI and basic functionality.
+
+### R2D83
+
+Added a new viewController and a segue to my project app. Got a bit confused trying to send data to the second VC.
