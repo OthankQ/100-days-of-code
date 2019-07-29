@@ -723,3 +723,7 @@ Started my own project to get out of the tutorial purgatory. I got a basic proto
 ### R2D83
 
 Added a new viewController and a segue to my project app. Got a bit confused trying to send data to the second VC.
+
+### R2D84
+
+Learned about how to put a searchbar and make it query for searched items. Bit confused. Might have to go back to it for a few more times.
