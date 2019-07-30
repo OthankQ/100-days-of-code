@@ -702,7 +702,7 @@ Not much progress today. Just some simple refactoring and learning new concepts 
 
 ### R2D78
 
-Learned how to save user data using Core Data and implemented it in the todo list app. Learned about the concept of context and persistent container.  
+Learned how to save user data using Core Data and implemented it in the todo list app. Learned about the concept of context and persistent container.
 
 ### R2D79
 
@@ -727,3 +727,7 @@ Added a new viewController and a segue to my project app. Got a bit confused try
 ### R2D84
 
 Learned about how to put a searchbar and make it query for searched items. Bit confused. Might have to go back to it for a few more times.
+
+### R2D85
+
+Set up a Django project to start my own blogging site. Also brushed upon SQL commands to start my studies on data viz and data science.
