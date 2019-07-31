@@ -731,3 +731,7 @@ Learned about how to put a searchbar and make it query for searched items. Bit c
 ### R2D85
 
 Set up a Django project to start my own blogging site. Also brushed upon SQL commands to start my studies on data viz and data science.
+
+### R2D86
+
+Learned how to use aggregate functions in SQL and played around querying for data using an example data base.
