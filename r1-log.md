@@ -735,3 +735,7 @@ Set up a Django project to start my own blogging site. Also brushed upon SQL com
 ### R2D86
 
 Learned how to use aggregate functions in SQL and played around querying for data using an example data base.
+
+### R2D87
+
+More practice with SQL aggregate functions. Learned how to work with multiple tables such using JOIN and LEFT JOIN. Kind of confusing. Will need more practice.
