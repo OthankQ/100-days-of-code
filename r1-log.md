@@ -739,3 +739,7 @@ Learned how to use aggregate functions in SQL and played around querying for dat
 ### R2D87
 
 More practice with SQL aggregate functions. Learned how to work with multiple tables such using JOIN and LEFT JOIN. Kind of confusing. Will need more practice.
+
+### R2D88
+
+More SQL. Learned how to use left join cross join, WITH function and UNION. 
