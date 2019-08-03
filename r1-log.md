@@ -742,4 +742,8 @@ More practice with SQL aggregate functions. Learned how to work with multiple ta
 
 ### R2D88
 
-More SQL. Learned how to use left join cross join, WITH function and UNION. 
+More SQL. Learned how to use left join cross join, WITH function and UNION.
+
+### R2D89
+
+More practice with left join, inner join and cross join on multiple tables.
