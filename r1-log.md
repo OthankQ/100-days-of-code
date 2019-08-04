@@ -747,3 +747,7 @@ More SQL. Learned how to use left join cross join, WITH function and UNION.
 ### R2D89
 
 More practice with left join, inner join and cross join on multiple tables.
+
+### R2D90
+
+Installed DB browser and practiced SQL on real life database. Brushed upon basic Python syntax to refresh myself.
