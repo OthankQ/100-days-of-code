@@ -751,3 +751,7 @@ More practice with left join, inner join and cross join on multiple tables.
 ### R2D90
 
 Installed DB browser and practiced SQL on real life database. Brushed upon basic Python syntax to refresh myself.
+
+### R2D91
+
+Wrote some simple Python game functions where users can play dice rolling game, coin flipping games, roulette and card picking game with a call and a betting amount as parameters.
