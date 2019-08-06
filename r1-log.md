@@ -755,3 +755,7 @@ Installed DB browser and practiced SQL on real life database. Brushed upon basic
 ### R2D91
 
 Wrote some simple Python game functions where users can play dice rolling game, coin flipping games, roulette and card picking game with a call and a betting amount as parameters.
+
+### R2D92
+
+R2D92 of #100DaysOfCode #301DaysOfCode -  More basic Python. Mostly playing around with manipulating lists. I hope I'm making more progress than I feel like I am.
