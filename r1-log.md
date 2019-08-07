@@ -758,4 +758,6 @@ Wrote some simple Python game functions where users can play dice rolling game, 
 
 ### R2D92
 
-R2D92 of #100DaysOfCode #301DaysOfCode -  More basic Python. Mostly playing around with manipulating lists. I hope I'm making more progress than I feel like I am.
+More loop manipulation and linear regression problem solving with Jupyter notebook.
+
+R2D92 of #100DaysOfCode #301DaysOfCode - More basic Python. Mostly playing around with manipulating lists. I hope I'm making more progress than I feel like I am.
