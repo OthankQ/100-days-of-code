@@ -760,4 +760,10 @@ Wrote some simple Python game functions where users can play dice rolling game, 
 
 More loop manipulation and linear regression problem solving with Jupyter notebook.
 
-R2D92 of #100DaysOfCode #301DaysOfCode - More basic Python. Mostly playing around with manipulating lists. I hope I'm making more progress than I feel like I am.
+### R2D93
+
+More basic Python. Mostly playing around with manipulating lists. I hope I'm making more progress than I feel like I am.
+
+### R2D94
+
+More practice with NumPy. Usually with array.
