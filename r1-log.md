@@ -767,3 +767,7 @@ More basic Python. Mostly playing around with manipulating lists. I hope I'm mak
 ### R2D94
 
 More practice with NumPy. Usually with array.
+
+### R2D95
+
+Practice with Numpy statistical method to figure out the mean, median, percentiles and interquartile range.
