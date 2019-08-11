@@ -771,3 +771,7 @@ More practice with NumPy. Usually with array.
 ### R2D95
 
 Practice with Numpy statistical method to figure out the mean, median, percentiles and interquartile range.
+
+### R2D96
+
+Practiced plotting given data out using matplotlib and NumPy. Brings back memories from stats classes.
