@@ -775,3 +775,7 @@ Practice with Numpy statistical method to figure out the mean, median, percentil
 ### R2D96
 
 Practiced plotting given data out using matplotlib and NumPy. Brings back memories from stats classes.
+
+### R2D97
+
+Went back to check on my SQL and noticed I had forgotten a lot about join functions. Time to get back to practicing SQL.
