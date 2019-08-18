@@ -779,3 +779,7 @@ Practiced plotting given data out using matplotlib and NumPy. Brings back memori
 ### R2D97
 
 Went back to check on my SQL and noticed I had forgotten a lot about join functions. Time to get back to practicing SQL.
+
+### R2D98
+
+Started teaching myself PHP as I felt like I will be needing it for the upcoming semester. Basic syntax and a few string operators.
