@@ -783,3 +783,7 @@ Went back to check on my SQL and noticed I had forgotten a lot about join functi
 ### R2D98
 
 Started teaching myself PHP as I felt like I will be needing it for the upcoming semester. Basic syntax and a few string operators.
+
+### R2D99
+
+More PHP basics. Mostly operators.
