@@ -787,3 +787,7 @@ Started teaching myself PHP as I felt like I will be needing it for the upcoming
 ### R2D99
 
 More PHP basics. Mostly operators.
+
+### R2D100
+
+Went over the basics of HTML just to get ready for the upcoming coursework.
