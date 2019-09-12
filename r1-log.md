@@ -795,3 +795,7 @@ Went over the basics of HTML just to get ready for the upcoming coursework.
 ### R3D1
 
 Went over few React challenges on FCC.
+
+### R3D2
+
+Started following a design to code front-end video on youtube and finished the mobile version.
