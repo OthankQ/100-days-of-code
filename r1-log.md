@@ -799,3 +799,7 @@ Went over few React challenges on FCC.
 ### R3D2
 
 Started following a design to code front-end video on youtube and finished the mobile version.
+
+### R3D3
+
+Added media queries and parallax effect to the page.
