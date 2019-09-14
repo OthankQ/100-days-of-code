@@ -803,3 +803,7 @@ Started following a design to code front-end video on youtube and finished the m
 ### R3D3
 
 Added media queries and parallax effect to the page.
+
+### R3D4
+
+Finished an assignment for class where I had to build two versions of a website. One using pure JS and the other using jQuery :S Started looking into Vue.js
