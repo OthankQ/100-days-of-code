@@ -807,3 +807,7 @@ Added media queries and parallax effect to the page.
 ### R3D4
 
 Finished an assignment for class where I had to build two versions of a website. One using pure JS and the other using jQuery :S Started looking into Vue.js
+
+### R3D5
+
+Finished  the back end code for the gamertag tracker app. Installed dependencies I will be needing for the Vue front end before wrapping things up.
