@@ -810,4 +810,8 @@ Finished an assignment for class where I had to build two versions of a website.
 
 ### R3D5
 
-Finished  the back end code for the gamertag tracker app. Installed dependencies I will be needing for the Vue front end before wrapping things up.
+Finished the back end code for the gamertag tracker app. Installed dependencies I will be needing for the Vue front end before wrapping things up.
+
+### R3D6
+
+Before getting into building the front end with Vue, decided to take Vue crash course. So far seeing a lot of similarities with React. Built a todo item component within todos component.
