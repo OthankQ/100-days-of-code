@@ -815,3 +815,7 @@ Finished the back end code for the gamertag tracker app. Installed dependencies 
 ### R3D6
 
 Before getting into building the front end with Vue, decided to take Vue crash course. So far seeing a lot of similarities with React. Built a todo item component within todos component.
+
+### R3D7
+
+Practiced setting up a Wordpress website on a local machine using Docker. Fascinating stuff. Added delete functionality to a todo list I'm building as a crash course into Vue.
