@@ -819,3 +819,7 @@ Before getting into building the front end with Vue, decided to take Vue crash c
 ### R3D7
 
 Practiced setting up a Wordpress website on a local machine using Docker. Fascinating stuff. Added delete functionality to a todo list I'm building as a crash course into Vue.
+
+### R3D8
+
+Added header and searchbar component to the vue todo list. Next, add the functionality.
