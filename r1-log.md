@@ -823,3 +823,7 @@ Practiced setting up a Wordpress website on a local machine using Docker. Fascin
 ### R3D8
 
 Added header and searchbar component to the vue todo list. Next, add the functionality.
+
+### R3D9
+
+Added adding functionality to the searchbar component.
