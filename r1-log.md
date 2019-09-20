@@ -827,3 +827,7 @@ Added header and searchbar component to the vue todo list. Next, add the functio
 ### R3D9
 
 Added adding functionality to the searchbar component.
+
+### R3D10
+
+Used Axios and Jsonplaceholder to send get request to fetch for dummy data instead of hard coded data. Installed and added vue router links.
