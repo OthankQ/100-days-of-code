@@ -831,3 +831,7 @@ Added adding functionality to the searchbar component.
 ### R3D10
 
 Used Axios and Jsonplaceholder to send get request to fetch for dummy data instead of hard coded data. Installed and added vue router links.
+
+### R3D11
+
+Interviewed for a web dev job at my school and realized just how much of HTML and CSS I was overlooking just concetrating on frameworks. Started coding out designs with just HTML and CSS for practice.
