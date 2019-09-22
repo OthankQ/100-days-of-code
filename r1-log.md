@@ -835,3 +835,7 @@ Used Axios and Jsonplaceholder to send get request to fetch for dummy data inste
 ### R3D11
 
 Interviewed for a web dev job at my school and realized just how much of HTML and CSS I was overlooking just concetrating on frameworks. Started coding out designs with just HTML and CSS for practice.
+
+### R3D12
+
+Finished the Header and the first and the second section of the main section of the CSS practice site.
