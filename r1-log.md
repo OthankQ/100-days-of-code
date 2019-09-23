@@ -839,3 +839,7 @@ Interviewed for a web dev job at my school and realized just how much of HTML an
 ### R3D12
 
 Finished the Header and the first and the second section of the main section of the CSS practice site.
+
+### R3D13
+
+Finished a responsive website assignment using grid and flexbox. Also studied upon promises and callbacks.
