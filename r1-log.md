@@ -843,3 +843,7 @@ Finished the Header and the first and the second section of the main section of 
 ### R3D13
 
 Finished a responsive website assignment using grid and flexbox. Also studied upon promises and callbacks.
+
+### R3D14
+
+A good friend of mine in the field told me of this site called @laracasts and started the Vue tutorial. Completed 6 of them so far but I love the challenges the creator put into the lessons.
