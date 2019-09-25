@@ -847,3 +847,7 @@ Finished a responsive website assignment using grid and flexbox. Also studied up
 ### R3D14
 
 A good friend of mine in the field told me of this site called @laracasts and started the Vue tutorial. Completed 6 of them so far but I love the challenges the creator put into the lessons.
+
+### R3D15
+
+Started coding a brand new portfolio site. Learned about separating out a vue component out of HTML and creating it globally.
