@@ -851,3 +851,7 @@ A good friend of mine in the field told me of this site called @laracasts and st
 ### R3D15
 
 Started coding a brand new portfolio site. Learned about separating out a vue component out of HTML and creating it globally.
+
+### R3D16
+
+Finished halfway through building the homepage for my new portfolio site.
