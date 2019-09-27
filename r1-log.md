@@ -855,3 +855,7 @@ Started coding a brand new portfolio site. Learned about separating out a vue co
 ### R3D16
 
 Finished halfway through building the homepage for my new portfolio site.
+
+### R3D17
+
+Went back to the basics and practiced HTML and CSS by making a copy site out of NASA.com website. Currently finished with the nav bar.
