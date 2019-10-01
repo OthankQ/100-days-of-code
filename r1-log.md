@@ -863,3 +863,7 @@ Went back to the basics and practiced HTML and CSS by making a copy site out of 
 ### R3D18
 
 Learned how to separate the logic portion and the presentation portion of a php project.
+
+### R3D19
+
+Made a copy of Google main page for HTML and CSS positioning practice.
