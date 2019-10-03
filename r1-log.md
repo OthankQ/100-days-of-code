@@ -867,3 +867,7 @@ Learned how to separate the logic portion and the presentation portion of a php 
 ### R3D19
 
 Made a copy of Google main page for HTML and CSS positioning practice.
+
+### R3D20
+
+More PHP arrays. Completed activities on how to design relational database based on real life market receipts. Had fun and learned a lot.
