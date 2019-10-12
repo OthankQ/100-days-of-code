@@ -875,3 +875,7 @@ More PHP arrays. Completed activities on how to design relational database based
 ### R3D21
 
 Copying YouTube homepage for vanilla HTML and CSS practice. Navbar sidebar and video card grid done.
+
+### R3D22
+
+For more HTML and CSS practice, started making a copy of mint.com's webpage. This time focusing on 'mobile first' and making it responsive.
