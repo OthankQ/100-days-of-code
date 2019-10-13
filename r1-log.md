@@ -879,3 +879,7 @@ Copying YouTube homepage for vanilla HTML and CSS practice. Navbar sidebar and v
 ### R3D22
 
 For more HTML and CSS practice, started making a copy of mint.com's webpage. This time focusing on 'mobile first' and making it responsive.
+
+### R3D23
+
+Still continuing with the page cloning. Created the card component. As a JS practice, started building a JS template engine to understand what React or any other frameworks are doing behind the scene.
