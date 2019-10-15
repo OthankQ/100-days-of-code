@@ -883,3 +883,7 @@ For more HTML and CSS practice, started making a copy of mint.com's webpage. Thi
 ### R3D23
 
 Still continuing with the page cloning. Created the card component. As a JS practice, started building a JS template engine to understand what React or any other frameworks are doing behind the scene.
+
+### R3D24
+
+More mint.com page cloning and php laracasts. Learned a lot about php by completing an assessment test.
