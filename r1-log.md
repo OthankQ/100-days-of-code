@@ -887,3 +887,7 @@ Still continuing with the page cloning. Created the card component. As a JS prac
 ### R3D24
 
 More mint.com page cloning and php laracasts. Learned a lot about php by completing an assessment test.
+
+### R3D25
+
+Started working on a fb messenger style chat app with my buddy. So far I have it to where once the user can type in an input and either hit a button or the enter key to make the message appear on screen as a div
