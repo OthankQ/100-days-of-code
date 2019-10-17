@@ -891,3 +891,7 @@ More mint.com page cloning and php laracasts. Learned a lot about php by complet
 ### R3D25
 
 Started working on a fb messenger style chat app with my buddy. So far I have it to where once the user can type in an input and either hit a button or the enter key to make the message appear on screen as a div
+
+### R3D26
+
+Working on how to setup a backend for the chat-app me and my buddies started building yesterday. Played around with Laravel to see how it handles the backend.
