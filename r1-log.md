@@ -895,3 +895,11 @@ Started working on a fb messenger style chat app with my buddy. So far I have it
 ### R3D26
 
 Working on how to setup a backend for the chat-app me and my buddies started building yesterday. Played around with Laravel to see how it handles the backend.
+
+
+<!-- REBOOT!!!!!!! -->
+
+
+### R1D1
+
+Embarrassed, but I am starting this log back up. I had stopped coding since I had to start working in a different field unexpectedly. However I don't want to give up on becoming a software engineer yet. Finished basic HTML section on freecodecamp to start dusting off my web skills.
