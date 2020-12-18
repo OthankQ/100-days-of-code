@@ -911,3 +911,7 @@ Refreshed my memory on basic CSS including selectors and importing fonts on #fre
 ### R1D3
 
 Finished basic CSS section on #freeCodeCamp
+
+### R1D4
+
+Worked halfway through Applied Visual Design section on #freeCodeCamp
