@@ -907,3 +907,7 @@ Embarrassed, but I am starting this log back up. I had stopped coding since I ha
 ### R1D2
 
 Refreshed my memory on basic CSS including selectors and importing fonts on #freeCodeCamp 
+
+### R1D3
+
+Finished basic CSS section on #freeCodeCamp
