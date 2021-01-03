@@ -919,3 +919,8 @@ Worked halfway through Applied Visual Design section on #freeCodeCamp
 ### R1D5
 
 Worked through Applied Visual Design section of @freeCodeCamp Really helps to brush upon CSS basics like transform.
+
+### R1D6
+
+Finished reviewing Applied Visual Design section of 
+@freeCodeCamp! Hadn't realized I needed more understanding in CSS animation until now
