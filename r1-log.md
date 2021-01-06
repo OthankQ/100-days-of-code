@@ -924,3 +924,9 @@ Worked through Applied Visual Design section of @freeCodeCamp Really helps to br
 
 Finished reviewing Applied Visual Design section of 
 @freeCodeCamp! Hadn't realized I needed more understanding in CSS animation until now
+
+### R1D7
+
+Going through some of the basic JS lessons on
+@freeCodeCamp
+to refresh myself with some of the concepts. Looking forward to start working on the Algorithm Scripting section.
