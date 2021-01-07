@@ -930,3 +930,7 @@ Finished reviewing Applied Visual Design section of
 Going through some of the basic JS lessons on
 @freeCodeCamp
 to refresh myself with some of the concepts. Looking forward to start working on the Algorithm Scripting section.
+
+### R1D8
+
+Finished reviewing JS objects and loops on @freeCodeCamp
