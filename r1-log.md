@@ -934,3 +934,7 @@ to refresh myself with some of the concepts. Looking forward to start working on
 ### R1D8
 
 Finished reviewing JS objects and loops on @freeCodeCamp
+
+### R1D9
+
+I haven't logged my progress for a while but I had been working on a Python syllabus and built a register closing calculator app 'Closure' using React Native. Very much a spaghetti code but enjoyed building it and learned a lot!
