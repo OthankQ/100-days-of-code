@@ -938,3 +938,7 @@ Finished reviewing JS objects and loops on @freeCodeCamp
 ### R1D9
 
 I haven't logged my progress for a while but I had been working on a Python syllabus and built a register closing calculator app 'Closure' using React Native. Very much a spaghetti code but enjoyed building it and learned a lot!
+
+### R1D10
+
+Testing out creating different components in React Native and passing data between them while also following a course explaining what is why.
