@@ -942,3 +942,7 @@ I haven't logged my progress for a while but I had been working on a Python syll
 ### R1D10
 
 Testing out creating different components in React Native and passing data between them while also following a course explaining what is why.
+
+### R1D11
+
+Drew a lot of interesting patterns and solved problems using python as a part of my studies following a syllabus. Created state using hooks and working buttons to change the state in react native playground
