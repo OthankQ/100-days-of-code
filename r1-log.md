@@ -946,3 +946,7 @@ Testing out creating different components in React Native and passing data betwe
 ### R1D11
 
 Drew a lot of interesting patterns and solved problems using python as a part of my studies following a syllabus. Created state using hooks and working buttons to change the state in react native playground
+
+### R1D12
+
+More playing around with React Native. Created a screen that sequentially generates View with random background color and its RGB value. Next step: implement archive and delete functions.
