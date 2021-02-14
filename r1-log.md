@@ -950,3 +950,7 @@ Drew a lot of interesting patterns and solved problems using python as a part of
 ### R1D12
 
 More playing around with React Native. Created a screen that sequentially generates View with random background color and its RGB value. Next step: implement archive and delete functions.
+
+### R1D13
+
+Created new components that will change the rgb value of a View in increments, for the user to be able to create any color.
